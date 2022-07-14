@@ -1,0 +1,36 @@
+/* =================================
+    Marilyn Flores
+====================================*/
+
+p {
+    font-family: Monospace;
+    font-style: oblique;
+    font-size: 0.5cm;
+    text-align: center;
+}
+.container {
+    text-align: center;
+}
+
+.recovery  {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 20px;
+    outline-color: blue;
+    font-weight: 300;
+    color: #8D8E8F;
+    padding: 10px 10px;
+    width: 100%;
+    margin: 2% auto;
+    border-width:1px 10%;
+    border-radius: 2px;
+    border: 3px solid #73AD21;
+    background-color: lightblue;
+    
+    
+}
+
+
+
+
+
+
